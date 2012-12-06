@@ -1,0 +1,74 @@
+Blasting
+M940CN_100140017
+(u'M940CN_1001400', 18441)
+[u' peptidase M42 [Acetivibrio cellulolyticus CD2]', u' peptidase M42 family protein [Thermosediminibacter oceani DSM 16646] >gi', u' peptidase M42 family protein [Thermoanaerobacter pseudethanolicus ATCC 33223] >gi']
+
+Blasting
+M940CN_100140015
+(u'M940CN_1001400', 18441)
+[u' cellulase [Acetohalobium arabaticum DSM 5501] >gi', u' peptidase M42 family protein [Thermoanaerobacter ethanolicus CCSD1] >gi', u' peptidase M42 family protein [Thermoanaerobacter pseudethanolicus ATCC 33223] >gi']
+
+Blasting
+M940CN_100592510
+(u'M940CN_1005925', 12262)
+[u' Deblocking aminopeptidase [Caenispirillum salinarum AK4] >gi', u' peptidase M42 family hydrolase [Ferrimonas balearica DSM 9799] >gi', u' peptidase M42 family protein [Parvibaculum lavamentivorans DS-1] >gi']
+
+Blasting
+M940CN_100762912
+(u'M940CN_1007629', 9350)
+[u' peptidase M42 family protein [Spirochaeta smaragdinae DSM 11293] >gi', u' peptidase M42 family protein [Kosmotoga olearia TBF 19.5.1] >gi', u' endoglucanase, aminopeptidase M42 family [Thermosipho africanus TCF52B] >gi']
+
+Blasting
+M940CN_10007303
+(u'M940CN_1000730', 8582)
+[u' glycoside hydrolase [Opitutus terrae PB90-1] >gi', u' Cellulase (glycosyl hydrolase family 5) [Flavobacterium sp. CF136] >gi', u' glycoside hydrolase family 5 [Haloterrigena turkmenica DSM 5511] >gi']
+
+Blasting
+M940CN_10162736
+(u'M940CN_1016273', 7017)
+[u' endoglucanase CelM [Methanocaldococcus jannaschii DSM 2661] >gi', u' Cellulase [Methanocaldococcus sp. FS406-22] >gi', u' cellulase [Methanocaldococcus fervens AG86] >gi']
+
+Blasting
+M940CN_10009096
+(u'M940CN_1000909', 6273)
+[u' Cellulase (glycosyl hydrolase family 5) [Opitutaceae bacterium TAV1] >gi', u' hypothetical protein Opit5DRAFT_1874 [Opitutaceae bacterium TAV5] >gi', u' hypothetical protein Opit5DRAFT_1409 [Opitutaceae bacterium TAV5] >gi']
+
+Blasting
+M940CN_10305052
+(u'M940CN_1030505', 4932)
+[u' M42 glutamyl aminopeptidase superfamily protein [Carboxydibrachium pacificum DSM 12653] >gi', u' hypothetical protein HMPREF9473_04027 [Clostridium hathewayi WAL-18680] >gi', u' peptidase M42 family protein [Sebaldella termitidis ATCC 33386] >gi']
+
+Blasting
+M940CN_10081933
+(u'M940CN_1008193', 4527)
+[u' endoglucanase, aminopeptidase M42 family [Thermosipho africanus TCF52B] >gi', u' peptidase M42 family protein [Thermosipho melanesiensis BI429] >gi', u' peptidase family protein [Mesotoga prima MesG1.Ag.4.2] >gi']
+
+Blasting
+M940CN_10033693
+(u'M940CN_1003369', 4349)
+[u' peptidase M42 family protein [Kosmotoga olearia TBF 19.5.1] >gi', u' peptidase family protein [Mesotoga prima MesG1.Ag.4.2] >gi', u' peptidase family protein [Fervidobacterium pennivorans DSM 9078] >gi']
+
+Blasting
+M940CN_10033692
+(u'M940CN_1003369', 4349)
+[u' peptidase M42 family protein [Kosmotoga olearia TBF 19.5.1] >gi', u' peptidase family protein [Mesotoga prima MesG1.Ag.4.2] >gi', u' cellulase [Thermosipho melanesiensis BI429] >gi']
+
+Blasting
+M940CN_10077684
+(u'M940CN_1007768', 3907)
+[u' glutamyl aminopeptidase [Spirochaeta smaragdinae DSM 11293] >gi', u' peptidase family protein [Sphaerochaeta pleomorpha str. Grapes] >gi', u' glutamyl aminopeptidase [Sphaerochaeta globus str. Buddy] >gi']
+
+Blasting
+M940CN_10199672
+(u'M940CN_1019967', 3068)
+[u' hypothetical protein PSMK_26070 [Phycisphaera mikurensis NBRC 102666] >gi', u' hypothetical protein [Monosiga brevicollis MX1] >gi', u' endo-1,4-beta-mannosidase, putative [Aspergillus clavatus NRRL 1] >gi']
+
+Blasting
+M940CN_10082643
+(u'M940CN_1008264', 2546)
+[u' glutamyl aminopeptidase [Spirochaeta smaragdinae DSM 11293] >gi', u' peptidase family protein [Sphaerochaeta pleomorpha str. Grapes] >gi', u' glutamyl aminopeptidase [Sphaerochaeta globus str. Buddy] >gi']
+
+Blasting
+M940CN_10136363
+(u'M940CN_1013636', 2477)
+[u' peptidase M42 family protein [Kosmotoga olearia TBF 19.5.1] >gi', u' peptidase family protein [Mesotoga prima MesG1.Ag.4.2] >gi', u' endoglucanase M [Thermosipho africanus H17ap60334] >gi']
