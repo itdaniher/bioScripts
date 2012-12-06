@@ -1,3 +1,10 @@
 # so that one time...
 
 ## we got stuff done
+
+# requirements
+
+* [Python2.7](https://code.google.com/p/pythonxy/)
+* [BioPython](http://biopython.org/wiki/Download)
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/#Download)
+* [Requests](http://docs.python-requests.org/en/latest/)
